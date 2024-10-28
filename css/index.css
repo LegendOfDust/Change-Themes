@@ -1,11 +1,19 @@
 .blue {
-    color: blue;
+    color:blue;
 }
 
 .purple {
-    color: purple;
+    color:purple;
+}
+
+.pink{
+    color:hotpink;
+}
+
+.cyan {
+    color:cyan;
 }
 
 .default{
-    color: hotpink;
+    color:white;
 }
